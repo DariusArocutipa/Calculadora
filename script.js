@@ -26,7 +26,7 @@ function DividirVariables() {
     c = parseFloat(a) / parseFloat(b);
     ope=" / ";
   } else {
-    alert("Error: Pendejo");
+    alert("Error");
     ope=" Error ";
   }
 }
